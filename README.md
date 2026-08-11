@@ -30,6 +30,6 @@ will.
 
 ## Contact address
 
-Every page points at `privacy@gelcraft.app`. That address **must actually receive mail** —
+Every page points at `prakash.anin@gmail.com`. That address **must actually receive mail** —
 a privacy policy listing a dead contact is a compliance problem under GDPR and a support
 liability on Play. Change it in all three HTML files if it is not live.
